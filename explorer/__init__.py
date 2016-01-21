@@ -1,3 +1,5 @@
+default_app_config = 'explorer.apps.ExplorerConfig'
+
 __version_info__ = {
     'major': 0,
     'minor': 8,
